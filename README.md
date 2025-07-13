@@ -38,3 +38,7 @@ La idea es que el simulador permita visualizar y explorar órbitas, periodos y p
 - Ismael Mora
 - Javiera Molina
 - Pablo Montoya
+
+## 📦 **Instalación y uso**  
+1. En los archivos disponibles encontrarás un manual para saber como usar y descargar el prorgrama.
+
