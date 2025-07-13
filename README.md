@@ -26,6 +26,10 @@ La idea es que el simulador permita visualizar y explorar órbitas, periodos y p
 - Pillow - Librería para la manipulación de imágenes
 - Canvas 
 - Pandas
+- Matoplotlib
+- Numpy
+- Math
+- Random
 
 
 ## 👤 Autores
